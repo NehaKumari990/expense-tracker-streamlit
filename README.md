@@ -330,7 +330,7 @@ Aspiring Data Scientist | Machine Learning Enthusiast
 
 This project is licensed under the MIT License.
 
-See the [LICENSE](LICENSE) file for more details.
+See the [LICENSE](LICENSE.md) file for more details.
 
 ---
 
